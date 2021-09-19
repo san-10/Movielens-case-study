@@ -1,4 +1,4 @@
-# Movielens-case-study Project 2 
+# Movielens-case-study Project 
 DATA SCIENCE WITH PYTHON   
 ..
  
